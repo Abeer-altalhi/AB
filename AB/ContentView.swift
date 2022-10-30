@@ -20,7 +20,7 @@ struct ContentView: View {
                         .foregroundColor(Color.gray)
                         .padding(.all)
                         .frame(width: 360.0, height: 50)
-                        .border(Color.red)
+                        .border(Color.black)
                     
                     
                     VStack (alignment: .leading, spacing: 6) {
