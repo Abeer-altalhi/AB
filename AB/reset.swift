@@ -16,6 +16,13 @@ struct reset: View {
                     .padding(.top, -290.0)
                 
                 Text("Your email address")
+                Text("enter your email")
+                    .font(.system(size: 15))
+                    .fontWeight(.thin)
+                    .foregroundColor(Color.gray)
+                    .padding(.all)
+                    .frame(width: 360.0, height: 50)
+                    .border(Color.black)
                 
                 
                 
